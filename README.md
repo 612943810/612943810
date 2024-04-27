@@ -1,14 +1,13 @@
 ## About Me
 ### Hi eveyone,my name is Raiyan Rofiquzzaman!
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-#### I enjoy solving new problems. Ever since I was a kid, I always liked solving puzzles. As a software  developer, problems are in my genetics.
-
-#### I have always enjoyed developing new software applications and I enjoy the process. I have experience with multiple web frameworks like Express JS, ASP.NET Core and Spring Boot. In addition, I am knowledgeable with React. I also have experience developing mobile applications.
+#### I am currently a independent software developer after graduating from George Brown College with a advanced diploma in Computer Programming and Analysis.
 
 #### I always look forward to learning about new technologies and frameworks in my spare time.
 
-##### If you need to solve any type of programming problem, I am your person.
+#### If you need to solve any type of programming problem, I am your person.
 
+#### Feel free to reaach me on LinkedIn on https://www.linkedin.com/in/raiyan-rofiquzzaman/
 ### Technologies I am Currently Using
 ![Static Badge](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=blue&logoSize=auto&labelColor=grey)

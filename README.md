@@ -1,5 +1,6 @@
 ## About Me
-### Hi,my name is Raiyan Rofiquzzaman.
+### Hi eveyone,my name is Raiyan Rofiquzzaman!
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 #### I enjoy solving new problems. Ever since I was a kid, I always liked solving puzzles. As a software  developer, problems are in my genetics.
 
 #### I have always enjoyed developing new software applications and I enjoy the process. I am experienced with JavaScript, Python, Java, C# and PHP.

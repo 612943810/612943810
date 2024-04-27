@@ -8,3 +8,9 @@
 #### I always look forward to learning about new technologies and frameworks in my spare time.
 
 ##### If you need to solve any type of programming problem, I am your person.
+
+### Technologies I am Currently Using
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=yellow&logoSize=auto&labelColor=grey)
+
+
+![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23&logoColor=violet&logoSize=auto&labelColor=grey)

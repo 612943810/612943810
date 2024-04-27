@@ -16,7 +16,6 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=yellow&logoSize=auto&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Express.JS-green?style=for-the-badge&logo=Express&logoColor=green&logoSize=auto&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Express.JS-green?style=for-the-badge&logo=Express&logoColor=green&logoSize=auto&labelColor=grey)
-![Static Badge](https://img.shields.io/badge/Jest-Brown?style=for-the-badge&logo=Jest&logoColor=Brown&logoSize=auto&label=Jest&labelColor=grey&color=brown)
 
 ![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23&logoColor=violet&logoSize=auto&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/ASP.NET%20Core-Purple?style=for-the-badge&logo=dotnet&logoColor=violet&logoSize=auto&labelColor=grey&color=purple)

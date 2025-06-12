@@ -1,11 +1,7 @@
 ## About Me
-### Hi eveyone,my name is Raiyan Rofiquzzaman!
+### Hi eveyone 👋,my name is Raiyan Rofiquzzaman!
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-#### I am currently a independent software developer after graduating from George Brown College with a advanced diploma in Computer Programming and Analysis.
-
-#### I always look forward to learning about new technologies and frameworks in my spare time.
-
-#### If you need to solve any type of programming problem, I am your person.
+#### I am a passionate tech graduate 👨🏻‍💻 with a interest for the ever evolving world of cloud computing 🌐.
 
 #### Feel free to reaach me on LinkedIn on https://www.linkedin.com/in/raiyan-rofiquzzaman/
 ### Technologies I am Currently Using

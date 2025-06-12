@@ -1,9 +1,9 @@
 ## About Me
 ### Hi eveyone 👋,my name is Raiyan Rofiquzzaman!
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-#### I am a passionate tech graduate 👨🏻‍💻 with a interest for the ever evolving world of cloud computing 🌐.
+### I am a passionate tech graduate 👨🏻‍💻 with a interest for the ever evolving world of cloud computing 🌐.
 
-#### Feel free to reaach me on LinkedIn on https://www.linkedin.com/in/raiyan-rofiquzzaman/
+### Feel free to reach me on LinkedIn on https://www.linkedin.com/in/raiyan-rofiquzzaman/
 ### Technologies I am Currently Using
 ![Static Badge](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=blue&logoSize=auto&labelColor=grey)

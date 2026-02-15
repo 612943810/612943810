@@ -1,5 +1,5 @@
 ## About Me
- Hi eveyone 👋,my name is Raiyan Rofiquzzaman! I am a  software developer based in Canada. I enjoy building intuitive user interfaces through ideation to deployment. 
+ Hi eveyone 👋,my name is Raiyan Rofiquzzaman! I am a  software developer based in Canada. I enjoy building intuitive web apps through ideation to deployment. 
 
 These days, I enjoy :
 * Building applications with React, TypeScript, Express, Node.js 

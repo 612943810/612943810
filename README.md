@@ -1,15 +1,21 @@
 ## About Me
-### Hi eveyone 👋,my name is Raiyan Rofiquzzaman!
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-### I am a passionate tech graduate 👨🏻‍💻 with a interest for the ever evolving world of cloud computing 🌐.
+ Hi eveyone 👋,my name is Raiyan Rofiquzzaman! I am a  software developer based in Canada. I enjoy building intuitive user interfaces through ideation to deployment. 
 
-### Feel free to reach me on LinkedIn on https://www.linkedin.com/in/raiyan-rofiquzzaman/
-### Technologies I am Currently Using
-![Static Badge](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&labelColor=grey)
-![Static Badge](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=blue&logoSize=auto&labelColor=grey)
-![Static Badge](https://img.shields.io/badge/React-Blue?style=for-the-badge&logo=react&logoColor=blue&logoSize=auto&labelColor=grey&color=blue)
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=yellow&logoSize=auto&labelColor=grey)
-![Static Badge](https://img.shields.io/badge/Express.JS-green?style=for-the-badge&logo=Express&logoColor=green&logoSize=auto&labelColor=grey)
-![Static Badge](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=green&logoSize=auto&labelColor=grey&color=green)
-![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23&logoColor=violet&logoSize=auto&labelColor=grey)
-![Static Badge](https://img.shields.io/badge/ASP.NET%20Core-Purple?style=for-the-badge&logo=dotnet&logoColor=violet&logoSize=auto&labelColor=grey&color=purple)
+These days, I enjoy :
+* Building applications with React, TypeScript, Express, Node.js 
+* Creating user-friendly applications for users
+* Bringing interesting ideas to life
+
+Here are some projects that I have created:
+
+[mind-sam](https://github.com/612943810/mind-sam) An app that I am creating that  creates a inventory of all my tracking needs.
+
+[image-recognition-infrastructure](https://github.com/612943810/image-recognition-infrastructure) An image recognition system that I created in college. This repo contains the infrastructure as code for ease of deployment.
+
+
+#### Fun facts about me!
+* My favourite sports is basketball and badminton.
+* I enjoy reading mystery and advanture novels.
+* I am a friendly guy in general!
+
+ Feel free to reach me on LinkedIn on https://www.linkedin.com/in/raiyan-rofiquzzaman/!

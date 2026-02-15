@@ -15,7 +15,7 @@ Here are some projects that I have created:
 
 #### Fun facts about me!
 * My favourite sports is basketball and badminton.
-* I enjoy reading mystery and advanture novels.
+* I enjoy reading mystery and adventure novels.
 * I am a friendly guy in general!
 
- Feel free to reach me on LinkedIn on https://www.linkedin.com/in/raiyan-rofiquzzaman/!
+ Feel free to reach me on LinkedIn on https://www.linkedin.com/in/raiyan-rofiquzzaman/.

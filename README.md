@@ -8,10 +8,9 @@ These days, I enjoy :
 
 Here are some projects that I have created:
 
-[mind-sam](https://github.com/612943810/mind-sam) An app that I am creating that  creates a inventory of all my tracking needs.
-
-[image-recognition-infrastructure](https://github.com/612943810/image-recognition-infrastructure) An image recognition system that I created in college. This repo contains the infrastructure as code for ease of deployment.
-
+* [mind-sam](https://github.com/612943810/mind-sam) An app that I am creating that  creates a inventory for all my tracking needs.
+* [image-recognition-infrastructure](https://github.com/612943810/image-recognition-infrastructure) An image recognition system that I created in college. This repo contains the infrastructure as code for ease of deployment.
+* [hotel-management-app] An basic CRUD app for a hotel management system.
 
 #### Fun facts about me!
 * My favourite sports is basketball and badminton.
